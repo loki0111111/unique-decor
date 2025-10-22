@@ -390,6 +390,7 @@ nav{
 
 .hamburger{
     position: relative;
+    display: block;
 }
 
 
